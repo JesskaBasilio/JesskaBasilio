@@ -24,5 +24,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
   </a>
 </div>
+
+## Com quem estou aprendendo
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">
+<img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="80" height="40"></a>
+
+<a href="https://www.udemy.com/course/java-curso-completo/" target="_blank">
+<img src="https://media.licdn.com/dms/image/C4D0BAQFP3CbpgFW-Lg/company-logo_200_200/0/1630539235131/devsuperior_logo?e=2147483647&v=beta&t=dFeNyw0yOLvXpf8L8MYUCD7-8y2Ev8U3jOXyYjDpvcA" width="80" height="40">
+</a>
+
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
