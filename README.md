@@ -14,7 +14,9 @@
 
 ## Tecnologias 
 <div style="display: inline_block">
+<a href"https://www.w3schools.com/html/default.asp" target="_blanck" ref="noreferrer" title="since 2016">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40">
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="since 2016">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 " width="40" height="40" />
   </a>
