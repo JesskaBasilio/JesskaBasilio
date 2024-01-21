@@ -33,5 +33,9 @@
 <img src="https://media.licdn.com/dms/image/C4D0BAQFP3CbpgFW-Lg/company-logo_200_200/0/1630539235131/devsuperior_logo?e=2147483647&v=beta&t=dFeNyw0yOLvXpf8L8MYUCD7-8y2Ev8U3jOXyYjDpvcA" width="80" height="40">
 </a>
 
+<a href="https://www.dio.me/users/jessicalba2006" target="_blank">
+<img src="https://hermes.dio.me/users/student/b87cd9d9-ec32-4e86-92c0-f2ec6e3f06a8.jpg" width="80" height="40">
+</a>
+
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
