@@ -7,10 +7,6 @@
   </a>
 </div><br/>
 
-## Redes Sociais<br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-lima-basilio-598861221/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jessica.l.basilio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesskabasilio/)
 
 ## Tecnologias 
 <div style="display: inline_block">
@@ -38,6 +34,13 @@
 <a href="https://www.dio.me/users/jessicalba2006" target="_blank">
 <img src="https://hermes.dio.me/users/student/b87cd9d9-ec32-4e86-92c0-f2ec6e3f06a8.jpg" width="80" height="40">
 </a>
+
+</br>
+
+## Redes Sociais<br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-lima-basilio-598861221/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jessica.l.basilio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesskabasilio/)
 
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
