@@ -23,6 +23,8 @@
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="since 2018">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
   </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
 </div>
 
 ## Com quem estou aprendendo
