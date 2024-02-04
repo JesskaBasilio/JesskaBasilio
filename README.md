@@ -32,3 +32,8 @@
 
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
+
+![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.svg)
+[![readme]](https://github-readme-stats.vercel.app/api/pin/?username=JesskaBasilio&theme=react)l(https://github.com/JesskaBasilio/JesskaBasilio)
+
+
