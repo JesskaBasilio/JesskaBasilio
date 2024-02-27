@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesskabasilio/)
 
 </br>
-Apaixonada pelo aprendizado, educação e tecnologia.
+
 
 ![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
 
