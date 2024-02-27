@@ -32,7 +32,7 @@
 
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
-</br>
+
 ![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
 
 
