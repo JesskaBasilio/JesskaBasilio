@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Jessica L. Basilio 👋 
 
-![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
+
 
 <div><br/>
   <a href="https://github.com/JesskaBasilio">
@@ -35,6 +35,6 @@
 </br>
 Apaixonada pelo aprendizado, educação e tecnologia.
 
-
+![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
 
 
