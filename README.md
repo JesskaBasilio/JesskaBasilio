@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Jessica L. Basilio 👋 
 
+![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
+
 <div><br/>
   <a href="https://github.com/JesskaBasilio">
     <img src="https://github-readme-stats.vercel.app/api?username=JesskaBasilio&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true&locale=pt-br"/>
