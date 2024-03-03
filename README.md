@@ -1,5 +1,8 @@
-### Olá! Eu sou a Jessica L. Basilio 👋 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+👋;Nice+to+see+you!;I+am+Jessica+!;Developer+Student+SI;Welcome+to+my+page!;💻&center=true&size=30">
+  </a>
+</h1>
 <div><br/>
   <a href="https://github.com/JesskaBasilio">
     <img src="https://github-readme-stats.vercel.app/api?username=JesskaBasilio&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true&locale=pt-br"/>
