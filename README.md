@@ -12,8 +12,8 @@
 </div><br/>
 
 
-## Tecnologias 
 <div align="center">
+  <h1> Tecnologias </h1><br>
 <a href="https://www.w3schools.com/html/default.asp" target="_blanck" ref="noreferrer" title="since 2016" width="40" height="40">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40">
 </a>
@@ -24,11 +24,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
   </a>
  <a><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;</a> 
-</div>
+</div><br>
 
-## Ferramentas
 
 <div align="center">
+  <h1>Ferramentas</h1><br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda alt="anaconda" width="40" height="40"/>&nbsp;
@@ -38,14 +38,16 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="ftrello" alt="trello" width="40" height="40"/>&nbsp;
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
-
+</div>
 </br>
 
-## Redes Sociais<br/>
+<div align="center">  
+<h1>Redes Sociais</h1><br>
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-lima-basilio-598861221/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jessica.l.basilio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesskabasilio/)
-
+</div>
 </br>
 
 
