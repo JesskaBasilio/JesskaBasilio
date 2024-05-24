@@ -23,7 +23,8 @@
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="since 2018">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
   </a>
- <a><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;</a> 
+<img align="center" alt="SQLserver" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ 
 </div><br>
 
 
