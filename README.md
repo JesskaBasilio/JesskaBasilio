@@ -13,18 +13,29 @@
 
 
 <div align="center">
-  <h1> Tecnologias </h1><br>
-<a href="https://www.w3schools.com/html/default.asp" target="_blanck" ref="noreferrer" title="since 2016" width="40" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40">
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="since 2016">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 " width="40" height="40" />
-  </a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="since 2018">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
-  </a>
-<img align="center" alt="SQLserver" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
- 
+  <h1> Tecnologias </h1><br> 
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Languages</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img align="center" alt="SQLserver" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Java</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>SQLServer</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>HTML</td>
+    </tr>
+  </table>
+
 </div><br>
 
 
