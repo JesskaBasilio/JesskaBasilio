@@ -17,7 +17,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="7">Linguagens</th>
       </tr>
     </thead>
     <tr>
