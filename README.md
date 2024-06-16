@@ -1,7 +1,7 @@
 # Introducing myself
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+👋;I+am+Jessica+!;Developer+Student;Welcome+to+my+page!;💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=d75413&lines=Hello+World+!+🌎+;🌸+💫+🌻+I+am+Jessica🌻🌸💫🌼+!;Developer+Student;Welcome+to+my+page!;💻&center=true&size=30">
   </a>
 </h1>
 <div align="center"><br/>
