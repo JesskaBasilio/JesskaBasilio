@@ -62,6 +62,14 @@
 </div>
 </br>
 
+<div align="center">  
+<h1>O que mais gosto</h1>
+</div></br>
+
+
+![coffee-coffee-cup](https://github.com/user-attachments/assets/b6a6d520-ecde-4d62-bfeb-3f89dd5d5e58)
+
+
 
 ![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
 
