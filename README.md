@@ -71,7 +71,7 @@
 
 ![coffee-coffee-cup](https://github.com/user-attachments/assets/b6a6d520-ecde-4d62-bfeb-3f89dd5d5e58)
 
-
+Acordar de manhã e tomar um café ☕ é muito bom!
 
 ![snake gif](https://github.com/JesskaBasilio/JesskaBasilio/blob/output/github-contribution-grid-snake.gif)
 
