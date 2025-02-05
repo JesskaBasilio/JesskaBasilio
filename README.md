@@ -27,6 +27,7 @@
       <td  align="center" width=110><img class="skills__logo" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Logo MySQL"></td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Java</td>
@@ -35,6 +36,7 @@
     <td align="center" width=110>MySQL</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
+      <td align="center" width=110>KOTLIN</td>
     </tr>
   </table>
 
