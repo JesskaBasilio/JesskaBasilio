@@ -1,7 +1,7 @@
 # Introducing myself
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=d75413&lines=Hello+World!+🌎+;☕🌻+I+am+Jessica☕🌸!;Developer+Student;Welcome+to+my+page!;💻☕&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=d75413&lines=Hello+World!+🌎+;☕🌻+I+am+Jessica☕🌸;Developer+Student;Welcome+to+my+page!;☕&center=true&size=30">
   </a>
 </h1>
 <div align="center"><br/>
@@ -65,7 +65,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesskabasilio/)
 </div>
 </br>
-
+<div align="center">  
+<h1>Experiência</h1>
+  <p>Dio Campus Expert - Embaixadora da DIO</p>
+  <p>Desenvolvedora Backend - Pipoca Ágil</p>
+</div></br>
 <div align="center">  
 <h1>O que mais gosto</h1>
 </div></br>
